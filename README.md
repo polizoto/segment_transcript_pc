@@ -39,5 +39,4 @@ OR
 ## Notes
 - In Segment+Align.sh script, adjust, if necessary, the Aeneas command so that the correct audio file type is listed (Adjust other 'clean-up' commands with different file types as well). In addition, adjust Aeneas parameters as necessary (e.g., head/tail audio length)
 - These scripts have been designed for use on a PC. For scripts that will work on a Mac, see this repo: https://github.com/polizoto/segment_transcript
-
-
+- For more information, please contact jpolizzotto@htctu.net
